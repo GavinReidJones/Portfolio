@@ -1,6 +1,6 @@
 /*dot_product.cpp : Defines the entry point for the console application.
 
-Last edited 30/11/17 by Gavin Reid-Jones
+Last edited  23/1/18 by Gavin Reid-Jones
 
 The dot product function performs the dot product calculation on two one dimensional vectors of the same size n. 
 */
